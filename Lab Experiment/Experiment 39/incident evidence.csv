@@ -1,0 +1,7 @@
+Date,Time,Source,Event,Details
+2026-08-20,08:10:01,Process,Process Started,suspicious.exe
+2026-08-20,08:10:10,File,File Modified,report.docx
+2026-08-20,08:10:20,Network,Outbound Connection,203.0.113.25
+2026-08-20,08:10:30,Authentication,Login Failure,admin account
+2026-08-20,08:10:45,USB,Device Connected,USB004
+2026-08-20,08:11:10,File,File Created,README.txt

@@ -1,0 +1,5 @@
+Timestamp,Sender,Recipient,Subject,Attachment,URL
+2026-08-25 08:10:10,manager@company.com,user@company.com,Meeting Reminder,agenda.pdf,https://company.com
+2026-08-25 08:15:20,alert@fake-login.com,user@company.com,Urgent Verify Your Account,update.exe,http://fake-login.com/verify
+2026-08-25 08:20:30,support@company.com,user@company.com,Security Update,security.pdf,https://company.com/security
+2026-08-25 08:25:40,payment@suspicious-domain.net,user@company.com,Urgent Payment Verification,invoice.zip,http://suspicious-domain.net/login

@@ -1,0 +1,4 @@
+example.com
+google.com
+youtube.com
+invalid-domain-example-12345.com

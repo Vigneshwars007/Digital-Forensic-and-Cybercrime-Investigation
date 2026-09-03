@@ -1,0 +1,9 @@
+Date,Time,Event,File
+2026-08-20,08:05:10,Created,evidence.txt
+2026-08-20,08:10:25,Modified,evidence.txt
+2026-08-20,08:15:40,Accessed,report.docx
+Create another file named system_log.csv:
+Date,Time,Event,Details
+2026-08-20,08:07:20,Login,User1 logged in
+2026-08-20,08:12:30,USB Connected,USB001 connected
+2026-08-20,08:18:50,Logout,User1 logged out

@@ -1,0 +1,5 @@
+Filename,Permission
+report.txt,rw-r--r--
+data.txt,rw-------
+script.sh,rwxr-xr-x
+secret.txt,rw-r-----

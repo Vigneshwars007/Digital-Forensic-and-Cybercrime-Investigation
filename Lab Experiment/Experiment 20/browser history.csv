@@ -1,0 +1,11 @@
+URL
+https://www.google.com
+https://www.youtube.com
+https://www.google.com
+https://www.facebook.com
+https://www.google.com
+https://www.youtube.com
+http://phishing-login.example.com/verify
+https://www.facebook.com
+Then run the program:
+Enter browser history file: browser_history.csv

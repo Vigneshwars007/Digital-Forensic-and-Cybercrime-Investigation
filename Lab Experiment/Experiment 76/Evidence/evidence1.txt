@@ -1,0 +1,17 @@
+Suspicious activity was detected from 192.168.1.50.
+
+The user visited:
+
+https://malicious-example.com/login
+
+Contact email:
+
+attacker@example.com
+
+Possible domain:
+
+malicious-example.com
+
+Bitcoin address:
+
+1BoatSLRHtKNngkdXEeobR76b53LETtpyT

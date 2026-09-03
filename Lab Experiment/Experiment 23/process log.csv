@@ -1,0 +1,6 @@
+Time,Process,PID,User,Path
+08:00:10,explorer.exe,1200,User1,C:\Windows\explorer.exe
+08:01:20,chrome.exe,1350,User1,C:\Program Files\Google\Chrome\chrome.exe
+08:02:30,mimikatz.exe,1450,User1,C:\Users\User1\Downloads\mimikatz.exe
+08:03:40,malware.exe,1500,User1,C:\Users\User1\AppData\Local\Temp\malware.exe
+08:04:50,notepad.exe,1600,User1,C:\Windows\System32\notepad.exe

@@ -1,0 +1,7 @@
+Date,Time,Event,Details
+2026-08-20,08:10:01,Process Started,suspicious.exe executed
+2026-08-20,08:10:05,File Modified,report.docx modified
+2026-08-20,08:10:08,File Encrypted,report.docx encrypted
+2026-08-20,08:10:12,Extension Changed,report.docx changed to report.locked
+2026-08-20,08:10:20,Ransom Note Created,README_DECRYPT.txt created
+2026-08-20,08:12:30,User Alert,System displayed ransom message

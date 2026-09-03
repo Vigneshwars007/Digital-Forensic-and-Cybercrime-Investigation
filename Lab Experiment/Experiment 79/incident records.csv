@@ -1,0 +1,7 @@
+Timestamp,Phase,Description
+2026-08-20 09:00:00,Detection,Antivirus alert triggered on WS-014
+2026-08-20 09:15:00,Analysis,Confirmed malware infection on WS-014
+2026-08-20 10:00:00,Containment,Isolated WS-014 from the network
+2026-08-20 12:00:00,Eradication,Removed malware and cleaned registry
+2026-08-21 09:00:00,Recovery,Restored WS-014 to production
+2026-08-22 09:00:00,Follow-up,Reviewed incident and updated policies

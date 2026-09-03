@@ -1,0 +1,3 @@
+Case File EVD-2026-040
+Digital evidence collected from workstation WS-014 during forensic acquisition.
+Used to demonstrate hash calculation for the digital forensic case report.

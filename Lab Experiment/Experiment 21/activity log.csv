@@ -1,0 +1,7 @@
+Date,Time,User,File
+2026-08-20,08:10:15,User1,evidence.txt
+2026-08-20,08:12:30,User1,report.docx
+2026-08-20,08:15:45,User2,image.jpg
+2026-08-20,08:18:20,User1,password.txt
+Then run the program:
+Enter activity log file: activity_log.csv

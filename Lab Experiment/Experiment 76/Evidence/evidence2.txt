@@ -1,0 +1,11 @@
+Network connection detected to 192.168.1.50.
+
+Another suspicious address is 203.0.113.25.
+
+Website:
+
+http://malicious-example.com
+
+Email:
+
+security@example.com

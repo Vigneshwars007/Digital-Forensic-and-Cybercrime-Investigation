@@ -1,0 +1,4 @@
+Timestamp,DeviceID,DeviceName,User,Status
+2026-08-20 09:00:00,USB001,SanDisk Cruzer,Alice,Authorized
+2026-08-20 11:20:00,USB099,Unknown Device,Bob,Unrecognized
+2026-08-21 08:45:00,USB001,SanDisk Cruzer,Alice,Authorized

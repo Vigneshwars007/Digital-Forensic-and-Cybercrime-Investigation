@@ -1,0 +1,4 @@
+example.com
+google.com
+wikipedia.org
+nonexistent-domain-example-98765.com

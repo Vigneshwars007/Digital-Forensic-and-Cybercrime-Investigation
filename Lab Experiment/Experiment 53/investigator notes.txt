@@ -1,0 +1,16 @@
+OBSERVATIONS
+System contained several recently modified files.
+A suspicious executable was identified in the Downloads folder.
+
+EVIDENCE REFERENCES
+EVD-001: Disk image of suspect computer.
+EVD-002: Suspicious executable file.
+
+EXAMINATION STEPS
+Verified the SHA-256 hash of EVD-001.
+Examined file metadata.
+Analyzed the suspicious executable.
+
+FINDINGS
+The suspicious executable was disguised with a document icon.
+File metadata shows the file was created outside normal business hours.

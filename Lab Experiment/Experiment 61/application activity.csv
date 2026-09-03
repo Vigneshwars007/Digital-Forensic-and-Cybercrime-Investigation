@@ -1,0 +1,5 @@
+AccessTime,DocumentName,User,Application,ActivityType
+2026-08-20 09:00:00,report.docx,Alice,Word,Opened
+2026-08-20 09:15:00,budget.xlsx,Bob,Excel,Opened
+2026-08-20 09:30:00,report.docx,Bob,Word,Opened
+2026-08-20 10:00:00,notes.txt,Alice,Notepad,Edited

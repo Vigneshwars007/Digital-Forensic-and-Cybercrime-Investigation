@@ -1,0 +1,3 @@
+Received: from mail.sender.com [203.0.113.10]; Mon, 25 Aug 2026 08:10:01
+Received: from relay.example.net [198.51.100.20]; Mon, 25 Aug 2026 08:10:05
+Received: from internal.mail.local [192.168.1.10]; Mon, 25 Aug 2026 08:10:10

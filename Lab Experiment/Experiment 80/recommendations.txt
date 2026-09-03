@@ -1,0 +1,4 @@
+Perform detailed analysis of the suspicious executable.
+Preserve all original evidence securely.
+Continue monitoring suspicious network connections.
+Document all future evidence transfers.
