@@ -1,0 +1,2 @@
+Forensic examination sample collected from workstation WS-014.
+The file is used to demonstrate creation, modification and access timestamps.

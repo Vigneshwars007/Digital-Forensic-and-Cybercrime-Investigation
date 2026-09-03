@@ -1,0 +1,3 @@
+Forensic image acquisition record for workstation WS-014.
+Evidence item: EVD-014.
+SHA-256 verification is performed before and after copying.
